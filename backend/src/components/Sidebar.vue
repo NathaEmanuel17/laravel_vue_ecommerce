@@ -8,7 +8,7 @@
                 Dashboard
             </span>
         </router-link>
-        <router-link :to="{name: 'app.dashboard'}" class="flex items-center p-2 rounded transition-colors hover:bg-black/30 font-light">
+        <router-link :to="{name: 'app.products'}" class="flex items-center p-2 rounded transition-colors hover:bg-black/30 font-light">
             <span class="mr-2 text-gray-300">
                 <ListBulletIcon class="w-5"/>
             </span>
